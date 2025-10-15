@@ -1,0 +1,10 @@
+name: GrapplingHook
+version: 1.0
+main: me.VAL.grapplingHook.GrapplingHook
+api-version: 1.16
+author: [VALHUNTER]
+commands:
+  grapplinghook:
+    description: Gives a grappling hook
+    usage: /<command>
+    permission: grapplinghook.give
